@@ -3,6 +3,7 @@ This has some minor updates to my previous todo app.
 
 # Advance ToDo App
 Deployed here: https://gifted-albattani-08606c.netlify.app/
+
 this todo app is build using react.js 
 
 this app use many react features like:
